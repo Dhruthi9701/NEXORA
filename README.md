@@ -1,4 +1,4 @@
-# This project is proprietary. See the LICENSE file for details regarding non-commercial use and attribution.
+### This project is proprietary. See the LICENSE file for details regarding non-commercial use and attribution.
 
 ## Eye-Controlled Mouse with Voice Commands for Browser Automation
 
@@ -378,6 +378,7 @@ This project provides a **complete hands-free computing solution** combining:
 - 🌐 **Web interface** for easy feature management
 
 The system is designed for **accessibility**, **productivity**, and **hands-free interaction**, making it suitable for users with mobility limitations or anyone wanting to interact with their computer in new ways.
+
 
 
 
