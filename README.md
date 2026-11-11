@@ -1,5 +1,3 @@
-### This project is proprietary. See the LICENSE file for details regarding non-commercial use and attribution.
-
 ## Eye-Controlled Mouse with Voice Commands for Browser Automation
 
 A comprehensive accessibility system that combines **eye tracking**, **voice commands**, and **hand gesture controls** to enable hands-free computer interaction.
